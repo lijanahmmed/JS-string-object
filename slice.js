@@ -1,10 +1,10 @@
 const address = 'andorKilla';
 const part = address.slice(2, 5);
-// console.log(part);
+console.log(part);
 
 const sentence = 'I am a good and hardworking person.';
-// console.log(sentence.split(' '));
-// console.log(sentence.split('a'));
+console.log(sentence.split(' '));
+console.log(sentence.split('a'));
 
 const friendsStr = 'Rahim,kahim,dahim,lahim,fahim,sahim';
 const friends = friendsStr.split(',');
